@@ -54,7 +54,7 @@ Database Schema (8 Entities)
 
  YouTube Video
 
-
+https://youtu.be/qqr8d3wzee4?si=rl29OG8L9vqYWWVm
 > 5–7 minute unlisted video explaining the ERD, endpoint plan, and demonstrating the SQL script running live in SSMS.
 
 ---
